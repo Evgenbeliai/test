@@ -14,7 +14,7 @@ class Vopros():
         self.n_o1 = n_o1
         self.n_o2 = n_o2
         self.n_o3 = n_o3
-
+#123
 q_list = list()
 
 q_list.append(Vopros("Сколько лет","1211","12","12","12"))
